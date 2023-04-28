@@ -1,1 +1,1 @@
-# HackatonBlip
+# pocGPT
